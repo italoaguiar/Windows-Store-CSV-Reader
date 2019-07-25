@@ -1,0 +1,15 @@
+c:\users\italo\documents\visual studio 2013\Projects\Windows 8 Store CSV Reader\Windows 8 Store CSV Reader\bin\Debug\Windows 8 Store CSV Reader.exe.config
+c:\users\italo\documents\visual studio 2013\Projects\Windows 8 Store CSV Reader\Windows 8 Store CSV Reader\bin\Debug\Windows 8 Store CSV Reader.exe
+c:\users\italo\documents\visual studio 2013\Projects\Windows 8 Store CSV Reader\Windows 8 Store CSV Reader\bin\Debug\Windows 8 Store CSV Reader.pdb
+c:\users\italo\documents\visual studio 2013\Projects\Windows 8 Store CSV Reader\Windows 8 Store CSV Reader\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+c:\users\italo\documents\visual studio 2013\Projects\Windows 8 Store CSV Reader\Windows 8 Store CSV Reader\obj\Debug\Windows 8 Store CSV Reader.csprojResolveAssemblyReference.cache
+c:\users\italo\documents\visual studio 2013\Projects\Windows 8 Store CSV Reader\Windows 8 Store CSV Reader\obj\Debug\MainWindow.baml
+c:\users\italo\documents\visual studio 2013\Projects\Windows 8 Store CSV Reader\Windows 8 Store CSV Reader\obj\Debug\MainWindow.g.cs
+c:\users\italo\documents\visual studio 2013\Projects\Windows 8 Store CSV Reader\Windows 8 Store CSV Reader\obj\Debug\App.g.cs
+c:\users\italo\documents\visual studio 2013\Projects\Windows 8 Store CSV Reader\Windows 8 Store CSV Reader\obj\Debug\Windows 8 Store CSV Reader_Content.g.cs
+c:\users\italo\documents\visual studio 2013\Projects\Windows 8 Store CSV Reader\Windows 8 Store CSV Reader\obj\Debug\Windows 8 Store CSV Reader_MarkupCompile.cache
+c:\users\italo\documents\visual studio 2013\Projects\Windows 8 Store CSV Reader\Windows 8 Store CSV Reader\obj\Debug\Windows 8 Store CSV Reader.g.resources
+c:\users\italo\documents\visual studio 2013\Projects\Windows 8 Store CSV Reader\Windows 8 Store CSV Reader\obj\Debug\Windows_8_Store_CSV_Reader.Properties.Resources.resources
+c:\users\italo\documents\visual studio 2013\Projects\Windows 8 Store CSV Reader\Windows 8 Store CSV Reader\obj\Debug\Windows 8 Store CSV Reader.csproj.GenerateResource.Cache
+c:\users\italo\documents\visual studio 2013\Projects\Windows 8 Store CSV Reader\Windows 8 Store CSV Reader\obj\Debug\Windows 8 Store CSV Reader.exe
+c:\users\italo\documents\visual studio 2013\Projects\Windows 8 Store CSV Reader\Windows 8 Store CSV Reader\obj\Debug\Windows 8 Store CSV Reader.pdb
